@@ -11,3 +11,11 @@ heart.arff file is data which is used in this project
 
 
 In react-SurveyJS blank branch it is possible to get blank file for future surveyJs implementation
+
+Example for fast checking final model: https://surveyjs.io/published?id=099a1255-a555-4793-9307-600149113e4a
+
+In SurveyJS-React Final branch we have working final version of SurveyJs-React app on localhost
+
+Go inside health folder and type npx start
+
+configurable react file is in /healt/src/App.js
